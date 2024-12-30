@@ -1,4 +1,1 @@
--  Hi, I’m Goofa
--  I’m interested in making smll python projekts etc.
--  I’m currently learning python basics
-- 
+Im not you
